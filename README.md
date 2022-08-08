@@ -1,3 +1,4 @@
 # BlogOnTheBlockchain
 Decentralized Blog for a Decentralized World
-I am learning this for the first time.
+<!DOCTYPE html>
+<html lan="en" data-react-helmet="lang">
