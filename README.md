@@ -1,4 +1,4 @@
-# BlogOnTheBlockchain
+# blog0n1heblockchain
 Decentralized Blog for a Decentralized World
 <!DOCTYPE html>
 <html>
